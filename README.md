@@ -17,6 +17,7 @@
   <img height=200 align="center" src="https://github.com/SlenderV-Git/SonneShop/api/top-langs?username=SlenderV-Git&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SlenderV)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SlenderV-Git/SlenderV-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
