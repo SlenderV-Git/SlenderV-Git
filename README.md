@@ -12,6 +12,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SlenderV-Git&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=SlenderV-GIt&theme=hacker&hide_border=true&type=png)](https://git.io/streak-stats)
 
 <!--
