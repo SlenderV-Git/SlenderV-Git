@@ -10,7 +10,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SlenderV-Git)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=slenderv-git)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SlenderV-GIt&theme=hacker&hide_border=true&type=png)](https://git.io/streak-stats)
 
