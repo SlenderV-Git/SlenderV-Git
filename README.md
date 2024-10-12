@@ -10,7 +10,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SlenderVI&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SlenderVI&theme=dark)](https://github.com/SlenderVI/leetcode-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SlenderV-GIt&theme=hacker&hide_border=true&type=png)](https://git.io/streak-stats)
 
