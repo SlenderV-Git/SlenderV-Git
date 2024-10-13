@@ -51,7 +51,7 @@ class BackendProgrammer(BaseProgrammer):
 <details open> 
   <summary><h2>🗂️ Highlight Projects</h2></summary>
 
-  <a href="https://github.com/Zhenye-Na/DA-RNN">
+  <a href="https://github.com/SlenderV-Git/SonneShop">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SlenderV-Git&repo=SonneShop&show_icons=true&line_height=27&title_color=ffffff&text_color=ffffff&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
   </a>
 </details>
