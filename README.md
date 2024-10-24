@@ -19,6 +19,7 @@ class BackendProgrammer(BaseProgrammer):
             "DevOps": ["Docker", "nginx"],
             "Testing": ["PyTest", "Selenium", "Postman"],
             "Security": ["JWT", "OAuth", "HTTPS", "SSL"],
+            "Bots" : ["aiogram 3"],
             "Other": ["Celery", "OAuth 2.0", "REST API", "Linux"]
         }
         self.hobbies = ["3D Modeling", "Game Development", "Mentorship"]
